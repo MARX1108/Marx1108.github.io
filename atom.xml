@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-09-02T14:23:22.656Z</updated>
+  <updated>2019-09-02T16:46:11.872Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Philosophy of Science Chi 2</title>
+    <link href="/2019/09/02/Philosophy%20of%20Science-Chi%202/"/>
+    <id>/2019/09/02/Philosophy of Science-Chi 2/</id>
+    <published>2019-09-02T16:46:25.000Z</published>
+    <updated>2019-09-02T16:46:11.872Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Demarcating-Science"><a href="#Demarcating-Science" class="headerlink" title="Demarcating Science"></a>Demarcating Science</h2><p>Science<br>    - Test Hypotheses against observations or experimental results<br>    - base their conclusion on the evidence</p><h2 id="A-Pair-of-Distinctions"><a href="#A-Pair-of-Distinctions" class="headerlink" title="A Pair of Distinctions"></a>A Pair of Distinctions</h2><p>Context of discovery<br>Context of justification<br><img src="/2019/09/02/Philosophy of Science-Chi 2/8F0A198F-11AC-4457-92CA-0DE49074131A.png" alt></p><p>::“Significant novel hypotheses rarely emerge from a mechanical compilation of data but often require the imaginative leap that introduces a new conception. If there are methods of discovery, they are not fully general, but limited to domains with particular features.”::</p><p><img src="/2019/09/02/Philosophy of Science-Chi 2/A2832F14-1B89-4F3C-A1DB-AB6D73F27404.png" alt></p><p>Analytic Truth<br><img src="/2019/09/02/Philosophy of Science-Chi 2/75CE18BF-B590-476E-8E50-1FA9330178DA.png" alt></p><p>Mathematics VS natural Science</p><p>Mathematics : </p><ul><li>analytic truths</li><li>deducing theorem from the axioms with logic</li></ul><p>Natural Science : </p><ul><li>hypotheses must be based on observation of nature</li><li>proving hypotheses by using basic statements as the premises in inferences that accord with the rules of an extended logic</li></ul><p><strong>Both consists in assembling basic statements and constructing arguments sanctioned by logic to ground conclusion about nature</strong></p><hr><p>Two questions:<br>What are the proper starting points for justificatory arguments in science?<br>What types of inference, beyond deduction, should be allowed in an “extended logic“ for science?</p><hr><h2 id="Revisability"><a href="#Revisability" class="headerlink" title="Revisability"></a>Revisability</h2><p>Karl Popper<br>The mark of real science is falsifiability.<br>Good hypotheses stick their necks out; they take risks by making claims that nature could reject.</p><p>The openness to correction is the hallmark of science and the source of the superiority of science over other kinds of human knowledge</p><p>A bundle of hypotheses allow avoidance of criticism to the central claim which makes the hallmark of falsifiability of science pointless</p><h2 id="Three-main-characteristics-of-natural-sciences"><a href="#Three-main-characteristics-of-natural-sciences" class="headerlink" title="Three main characteristics of natural sciences"></a>Three main characteristics of natural sciences</h2><p>Theory of confirmation<br>Theory of theories and theoretical language<br>Theory of explanation</p><h3 id="Confirmation"><a href="#Confirmation" class="headerlink" title="Confirmation"></a>Confirmation</h3><p>Scientific evidence falls short of conclusive proof.<br>General hypotheses are subject to revision.<br>The scientific process does not prove but simply confirms.</p><p>How does it confirms?</p><h4 id="The-Hypothetico-Deductive-Method"><a href="#The-Hypothetico-Deductive-Method" class="headerlink" title="The Hypothetico-Deductive Method"></a>The Hypothetico-Deductive Method</h4><p><img src="/2019/09/02/Philosophy of Science-Chi 2/B32CFD52-F252-43EA-8EBB-FAAF2E16B028.png" alt><br><img src="/2019/09/02/Philosophy of Science-Chi 2/0A68CE78-F418-43A7-A550-8A92DC1FEB4F.png" alt></p><p>#Note</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Demarcating-Science&quot;&gt;&lt;a href=&quot;#Demarcating-Science&quot; class=&quot;headerlink&quot; title=&quot;Demarcating Science&quot;&gt;&lt;/a&gt;Demarcating Science&lt;/h2&gt;&lt;p&gt;Sc
+      
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -53,31 +78,6 @@
       
       
         &lt;h2 id=&quot;Epi-01-a&quot;&gt;&lt;a href=&quot;#Epi-01-a&quot; class=&quot;headerlink&quot; title=&quot;Epi 01 a&quot;&gt;&lt;/a&gt;Epi 01 a&lt;/h2&gt;&lt;p&gt;Categoricalism- locate morality in certain dut
-      
-    
-    </summary>
-    
-      <category term="Notes" scheme="/categories/Notes/"/>
-    
-    
-      <category term="philosophy" scheme="/tags/philosophy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Epi 02 Put a price tag on life</title>
-    <link href="/2019/03/27/Epi%2002/"/>
-    <id>/2019/03/27/Epi 02/</id>
-    <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:33:12.145Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Put-a-price-tag-on-life"><a href="#Put-a-price-tag-on-life" class="headerlink" title="Put a price tag on life"></a>Put a price tag on life</h2><p>Benthame  Utilitarian<br>    Idea:<br>        Greatest Good for the greatest number<br>    Objections<br>        1. Fail to respect indviduals / Minority right<br>        2. Not possible to aggregate all value into numbers<br>            1. Using a single number<br>            2. If the preference has a worthier different<br>    Example:<br>        Cost-benefits analysis<br>        The cigarette<br>        The Ford Pinto<br>        the cost of life</p><h2 id="Measure-the-pleasure"><a href="#Measure-the-pleasure" class="headerlink" title="Measure the pleasure"></a>Measure the pleasure</h2><p><strong>Example</strong></p><pre><code>Torture to extract information for the collective goodTranslating value to number    the value of entrance to women dorm</code></pre><h4 id="John-Stuart-Mill"><a href="#John-Stuart-Mill" class="headerlink" title="John Stuart Mill"></a>John Stuart Mill</h4><pre><code>humanize the Utilitarian and accommodate the humanism concernsrespond to the objections    1. Fail to respect indviduals / Minority right</code></pre><p><img src="/2019/03/27/Epi 02/AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png" alt="AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png"></p><pre><code>3. Not possible to aggregate all value into numbers     1. Using a single number     2. If the preference has a worthier different</code></pre><p><img src="/2019/03/27/Epi 02/0FC7A8DD-3B0F-4124-BFCD-96A77D93FB29.png" alt></p><pre><code>#Note#</code></pre>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;Put-a-price-tag-on-life&quot;&gt;&lt;a href=&quot;#Put-a-price-tag-on-life&quot; class=&quot;headerlink&quot; title=&quot;Put a price tag on life&quot;&gt;&lt;/a&gt;Put a price tag o
       
     
     </summary>
@@ -140,19 +140,19 @@
   </entry>
   
   <entry>
-    <title>Epi 05 Hired Gun &amp; Consent</title>
-    <link href="/2019/03/27/Epi%2005/"/>
-    <id>/2019/03/27/Epi 05/</id>
+    <title>Epi 02 Put a price tag on life</title>
+    <link href="/2019/03/27/Epi%2002/"/>
+    <id>/2019/03/27/Epi 02/</id>
     <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:23:42.137Z</updated>
+    <updated>2019-09-02T14:33:12.145Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Hired-Gun"><a href="#Hired-Gun" class="headerlink" title="Hired Gun"></a>Hired Gun</h2><p>Taxation with consent<br><strong>Prior act of consent to join the society and agree to be bound by the society</strong> </p><pre><code>- The government have the right to violate self-procession as fas as it is not arbitrary</code></pre><h2 id="For-Sale-Motherhood"><a href="#For-Sale-Motherhood" class="headerlink" title="For Sale: Motherhood"></a>For Sale: Motherhood</h2><p>#Note</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Put-a-price-tag-on-life"><a href="#Put-a-price-tag-on-life" class="headerlink" title="Put a price tag on life"></a>Put a price tag on life</h2><p>Benthame  Utilitarian<br>    Idea:<br>        Greatest Good for the greatest number<br>    Objections<br>        1. Fail to respect indviduals / Minority right<br>        2. Not possible to aggregate all value into numbers<br>            1. Using a single number<br>            2. If the preference has a worthier different<br>    Example:<br>        Cost-benefits analysis<br>        The cigarette<br>        The Ford Pinto<br>        the cost of life</p><h2 id="Measure-the-pleasure"><a href="#Measure-the-pleasure" class="headerlink" title="Measure the pleasure"></a>Measure the pleasure</h2><p><strong>Example</strong></p><pre><code>Torture to extract information for the collective goodTranslating value to number    the value of entrance to women dorm</code></pre><h4 id="John-Stuart-Mill"><a href="#John-Stuart-Mill" class="headerlink" title="John Stuart Mill"></a>John Stuart Mill</h4><pre><code>humanize the Utilitarian and accommodate the humanism concernsrespond to the objections    1. Fail to respect indviduals / Minority right</code></pre><p><img src="/2019/03/27/Epi 02/AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png" alt="AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png"></p><pre><code>3. Not possible to aggregate all value into numbers     1. Using a single number     2. If the preference has a worthier different</code></pre><p><img src="/2019/03/27/Epi 02/0FC7A8DD-3B0F-4124-BFCD-96A77D93FB29.png" alt></p><pre><code>#Note#</code></pre>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Hired-Gun&quot;&gt;&lt;a href=&quot;#Hired-Gun&quot; class=&quot;headerlink&quot; title=&quot;Hired Gun&quot;&gt;&lt;/a&gt;Hired Gun&lt;/h2&gt;&lt;p&gt;Taxation with consent&lt;br&gt;&lt;strong&gt;Prior act
+        &lt;h2 id=&quot;Put-a-price-tag-on-life&quot;&gt;&lt;a href=&quot;#Put-a-price-tag-on-life&quot; class=&quot;headerlink&quot; title=&quot;Put a price tag on life&quot;&gt;&lt;/a&gt;Put a price tag o
       
     
     </summary>
@@ -190,19 +190,19 @@
   </entry>
   
   <entry>
-    <title>Epi 07 A Deal is a Deal</title>
-    <link href="/2019/03/27/Epi%2007/"/>
-    <id>/2019/03/27/Epi 07/</id>
+    <title>Epi 05 Hired Gun &amp; Consent</title>
+    <link href="/2019/03/27/Epi%2005/"/>
+    <id>/2019/03/27/Epi 05/</id>
     <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:23:47.291Z</updated>
+    <updated>2019-09-02T14:23:42.137Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="lessons-in-lying"><a href="#lessons-in-lying" class="headerlink" title="lessons in lying"></a>lessons in lying</h2><p>How is morality possible<br>How is categorical imperative possible</p><p>::If the utilitarian is true, if  I am the only subject of the deliverances of my sense, the pain, the pleasure, the pain and appetite, if that’s all there were to humanity, we wouldn’t be freedom because in that case every exercise of will would be conditioned by the desire for some objects::</p><p><img src="/2019/03/27/Epi 07/55B3932F-B4F2-4BB2-B18C-1286CC58E3F0.png" alt></p><p>How is categorical imperative possible<br>Only because the idea of freedom makes myself as members of intelligible world.</p><p>::It is because of the two standpoints that the realm of freedom and the real of necessity, there is always potentially a gap between what we do and what we ought to do::</p><p>A lie and a misleading truth<br>Kant based morality not on consequenlist but on moral law</p><h2 id="A-Deal-is-a-Deal"><a href="#A-Deal-is-a-Deal" class="headerlink" title="A Deal is a Deal"></a>A Deal is a Deal</h2><p>Justice arise from social contract</p><p>It is exceptional contract in the sense that it is not actual contract but rather the idea of reasons.</p><p><img src="/2019/03/27/Epi 07/C1F80F61-5D36-49EB-98A9-FA52B7BD0355.png" alt></p><p>John Rawls<br>    justice from the Hypothetical agreement<br>    Critics of utilitarian<br><img src="/2019/03/27/Epi 07/D1AF86C6-B301-436D-A943-E91B1529AA2D.png" alt></p><pre><code>veil of igorance </code></pre><p>::what is the moral force of this kind of hypothetical agreement ?::<br>    Behind the veil of ignorance<br>    equal of knowledge in different parties<br>    equal of bargain power in different parties<br>    veil of ignorance create a equality<br>    by ruling out the difference of knowledge and power<br>::What is the moral force of the actual contracts?::<br>        1. How do the actual contracts bind or obligate?<br>        Answer:<br>            1. <strong>benefit-based</strong> =&gt; <strong>reciprocity</strong><br>            Instruments of mutual benefits<br>            difference of knowledge in different parties<br>            2. <strong>consent-based</strong> =&gt; <strong>autonomy</strong><br>            difference of bargain power in different parties<br>        2. How do they justify the terms they produce?<br>            1. They don’t<br>            2. Actual contracts are not self-suffiencit</p><pre><code>3. Moral limited of actual contracts     1. Mutual agreements doesn’t means fairness     2.  A contract is not sufficient or not even the necessity condition of there being a obligation    David Hume</code></pre><p><img src="/2019/03/27/Epi 07/DF654C29-E7BD-45E9-8FED-A60CD4746986.png" alt></p><p>#Note</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Hired-Gun"><a href="#Hired-Gun" class="headerlink" title="Hired Gun"></a>Hired Gun</h2><p>Taxation with consent<br><strong>Prior act of consent to join the society and agree to be bound by the society</strong> </p><pre><code>- The government have the right to violate self-procession as fas as it is not arbitrary</code></pre><h2 id="For-Sale-Motherhood"><a href="#For-Sale-Motherhood" class="headerlink" title="For Sale: Motherhood"></a>For Sale: Motherhood</h2><p>#Note</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;lessons-in-lying&quot;&gt;&lt;a href=&quot;#lessons-in-lying&quot; class=&quot;headerlink&quot; title=&quot;lessons in lying&quot;&gt;&lt;/a&gt;lessons in lying&lt;/h2&gt;&lt;p&gt;How is moralit
+        &lt;h2 id=&quot;Hired-Gun&quot;&gt;&lt;a href=&quot;#Hired-Gun&quot; class=&quot;headerlink&quot; title=&quot;Hired Gun&quot;&gt;&lt;/a&gt;Hired Gun&lt;/h2&gt;&lt;p&gt;Taxation with consent&lt;br&gt;&lt;strong&gt;Prior act
       
     
     </summary>
@@ -240,6 +240,31 @@
   </entry>
   
   <entry>
+    <title>Epi 07 A Deal is a Deal</title>
+    <link href="/2019/03/27/Epi%2007/"/>
+    <id>/2019/03/27/Epi 07/</id>
+    <published>2019-03-28T00:46:25.000Z</published>
+    <updated>2019-09-02T14:23:47.291Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="lessons-in-lying"><a href="#lessons-in-lying" class="headerlink" title="lessons in lying"></a>lessons in lying</h2><p>How is morality possible<br>How is categorical imperative possible</p><p>::If the utilitarian is true, if  I am the only subject of the deliverances of my sense, the pain, the pleasure, the pain and appetite, if that’s all there were to humanity, we wouldn’t be freedom because in that case every exercise of will would be conditioned by the desire for some objects::</p><p><img src="/2019/03/27/Epi 07/55B3932F-B4F2-4BB2-B18C-1286CC58E3F0.png" alt></p><p>How is categorical imperative possible<br>Only because the idea of freedom makes myself as members of intelligible world.</p><p>::It is because of the two standpoints that the realm of freedom and the real of necessity, there is always potentially a gap between what we do and what we ought to do::</p><p>A lie and a misleading truth<br>Kant based morality not on consequenlist but on moral law</p><h2 id="A-Deal-is-a-Deal"><a href="#A-Deal-is-a-Deal" class="headerlink" title="A Deal is a Deal"></a>A Deal is a Deal</h2><p>Justice arise from social contract</p><p>It is exceptional contract in the sense that it is not actual contract but rather the idea of reasons.</p><p><img src="/2019/03/27/Epi 07/C1F80F61-5D36-49EB-98A9-FA52B7BD0355.png" alt></p><p>John Rawls<br>    justice from the Hypothetical agreement<br>    Critics of utilitarian<br><img src="/2019/03/27/Epi 07/D1AF86C6-B301-436D-A943-E91B1529AA2D.png" alt></p><pre><code>veil of igorance </code></pre><p>::what is the moral force of this kind of hypothetical agreement ?::<br>    Behind the veil of ignorance<br>    equal of knowledge in different parties<br>    equal of bargain power in different parties<br>    veil of ignorance create a equality<br>    by ruling out the difference of knowledge and power<br>::What is the moral force of the actual contracts?::<br>        1. How do the actual contracts bind or obligate?<br>        Answer:<br>            1. <strong>benefit-based</strong> =&gt; <strong>reciprocity</strong><br>            Instruments of mutual benefits<br>            difference of knowledge in different parties<br>            2. <strong>consent-based</strong> =&gt; <strong>autonomy</strong><br>            difference of bargain power in different parties<br>        2. How do they justify the terms they produce?<br>            1. They don’t<br>            2. Actual contracts are not self-suffiencit</p><pre><code>3. Moral limited of actual contracts     1. Mutual agreements doesn’t means fairness     2.  A contract is not sufficient or not even the necessity condition of there being a obligation    David Hume</code></pre><p><img src="/2019/03/27/Epi 07/DF654C29-E7BD-45E9-8FED-A60CD4746986.png" alt></p><p>#Note</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;lessons-in-lying&quot;&gt;&lt;a href=&quot;#lessons-in-lying&quot; class=&quot;headerlink&quot; title=&quot;lessons in lying&quot;&gt;&lt;/a&gt;lessons in lying&lt;/h2&gt;&lt;p&gt;How is moralit
+      
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Epi 09 Arguing affirmative action</title>
     <link href="/2019/03/27/Epi%2009/"/>
     <id>/2019/03/27/Epi 09/</id>
@@ -253,6 +278,31 @@
       
       
         &lt;h2 id=&quot;Arguing-affirmative-action&quot;&gt;&lt;a href=&quot;#Arguing-affirmative-action&quot; class=&quot;headerlink&quot; title=&quot;Arguing affirmative action&quot;&gt;&lt;/a&gt;Arguing 
+      
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Epi 12 The Good Life</title>
+    <link href="/2019/03/27/Epi%2012/"/>
+    <id>/2019/03/27/Epi 12/</id>
+    <published>2019-03-28T00:46:25.000Z</published>
+    <updated>2019-09-02T14:23:59.095Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Debating-same-sex-marriage"><a href="#Debating-same-sex-marriage" class="headerlink" title="Debating same-sex marriage"></a>Debating same-sex marriage</h2><p><img src="/2019/03/27/Epi 12/9000107A-6A54-4360-B794-E643C2CE4336.png" alt></p><p>Two way of defining justice</p><ol><li>Justice relativist </li><li>Justice is bound up with the good in a relativist </li></ol><p>::Reasoning about the purpose and ends of the good is the necessary::<br>::feature of arguing about the justice::</p><h2 id="The-Good-Life"><a href="#The-Good-Life" class="headerlink" title="The Good Life"></a>The Good Life</h2><p>Is it necessary or unavoidable to take up the good life to think about the justice?</p><p>Yes</p><p>moral reasoning<br>John Rawls: reflective equilibrium<br>Pluralist society </p><p>If we are going to think of our disagreements about morality and religion has bound up with our disagreements about justice, how are we ever going to find a way to our society that accords respect to fellow citizens we disagree?</p><p>It depends which conception of respect one accepts</p><p><img src="/2019/03/27/Epi 12/8DF53737-E60D-473B-B516-422D979F73CF.png" alt><br><img src="/2019/03/27/Epi 12/7A5F645A-519B-4123-8511-502AA831508E.png" alt></p><p>#Note</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Debating-same-sex-marriage&quot;&gt;&lt;a href=&quot;#Debating-same-sex-marriage&quot; class=&quot;headerlink&quot; title=&quot;Debating same-sex marriage&quot;&gt;&lt;/a&gt;Debating
       
     
     </summary>
@@ -303,31 +353,6 @@
       
       
         &lt;h2 id=&quot;The-claims-of-community&quot;&gt;&lt;a href=&quot;#The-claims-of-community&quot; class=&quot;headerlink&quot; title=&quot;The claims of community&quot;&gt;&lt;/a&gt;The claims of com
-      
-    
-    </summary>
-    
-      <category term="Notes" scheme="/categories/Notes/"/>
-    
-    
-      <category term="philosophy" scheme="/tags/philosophy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Epi 12 The Good Life</title>
-    <link href="/2019/03/27/Epi%2012/"/>
-    <id>/2019/03/27/Epi 12/</id>
-    <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:23:59.095Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Debating-same-sex-marriage"><a href="#Debating-same-sex-marriage" class="headerlink" title="Debating same-sex marriage"></a>Debating same-sex marriage</h2><p><img src="/2019/03/27/Epi 12/9000107A-6A54-4360-B794-E643C2CE4336.png" alt></p><p>Two way of defining justice</p><ol><li>Justice relativist </li><li>Justice is bound up with the good in a relativist </li></ol><p>::Reasoning about the purpose and ends of the good is the necessary::<br>::feature of arguing about the justice::</p><h2 id="The-Good-Life"><a href="#The-Good-Life" class="headerlink" title="The Good Life"></a>The Good Life</h2><p>Is it necessary or unavoidable to take up the good life to think about the justice?</p><p>Yes</p><p>moral reasoning<br>John Rawls: reflective equilibrium<br>Pluralist society </p><p>If we are going to think of our disagreements about morality and religion has bound up with our disagreements about justice, how are we ever going to find a way to our society that accords respect to fellow citizens we disagree?</p><p>It depends which conception of respect one accepts</p><p><img src="/2019/03/27/Epi 12/8DF53737-E60D-473B-B516-422D979F73CF.png" alt><br><img src="/2019/03/27/Epi 12/7A5F645A-519B-4123-8511-502AA831508E.png" alt></p><p>#Note</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;Debating-same-sex-marriage&quot;&gt;&lt;a href=&quot;#Debating-same-sex-marriage&quot; class=&quot;headerlink&quot; title=&quot;Debating same-sex marriage&quot;&gt;&lt;/a&gt;Debating
       
     
     </summary>
