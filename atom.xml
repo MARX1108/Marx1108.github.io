@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-09-02T16:46:11.872Z</updated>
+  <updated>2019-09-04T23:30:38.152Z</updated>
   <id>/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Philosophy of Science Chi 2</title>
+    <title>Recipes for Science Chp2</title>
+    <link href="/2019/09/24/Recipes%20for%20Science%20Chp2/"/>
+    <id>/2019/09/24/Recipes for Science Chp2/</id>
+    <published>2019-09-24T11:30:25.000Z</published>
+    <updated>2019-09-04T23:30:38.152Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Experiments-and-Studies"><a href="#Experiments-and-Studies" class="headerlink" title="Experiments and Studies"></a>Experiments and Studies</h1><p><em>Recipes for Science Chp2</em></p><p> Goal</p><ol><li>The role of experiments in testing hypotheses </li><li>The main features of an experiment in an example of scientific research</li><li>Extraneous variables and why these must be controlled in an experiment</li><li>the problem of underdetermination and how scientists deal with it</li><li>Identify three other uses of experiments in science besides hypothesis-testing</li></ol><h2 id="How-Experiments-Contribute-to-Science"><a href="#How-Experiments-Contribute-to-Science" class="headerlink" title="How Experiments Contribute to Science"></a>How Experiments Contribute to Science</h2><h3 id="the-three-common-ingredients-in-recipes-for-science"><a href="#the-three-common-ingredients-in-recipes-for-science" class="headerlink" title="the three common ingredients in recipes for science"></a>the three common ingredients in recipes for science</h3><ol><li><strong>Hypotheses</strong> are used to generate expectations</li><li><strong>Expectations</strong> are compared with <strong>observations</strong></li><li>That comparison is used to develop, confirm, reject, or refine a hypothesis</li></ol><p><strong>Experiments is used to produce and collect useful data that is used to refine a hypothesis</strong></p><h2 id="Variable-and-their-control"><a href="#Variable-and-their-control" class="headerlink" title="Variable and their control"></a>Variable and their control</h2><p><strong>Independent variable</strong><br><strong>Dependent variable</strong><br>Comments:  Cause and effect. How to measure the dependency of variable? How to tell the dependent variable ? How to tell the independent variable? Independent to what extend? Quantum struggling. </p><p><strong>Extraneous variable</strong> : other variables that may influence the value of the dependent variable<br>Comments: which introduces the least number of extraneous variables?</p><p><strong>One typical confounding variable</strong><br>Observer bias (Hawthorne effect)</p><h2 id="Experimental-Setup"><a href="#Experimental-Setup" class="headerlink" title="Experimental Setup"></a>Experimental Setup</h2><ol><li>Subjects </li><li>Instruments</li><li>Place and period of time</li><li>Individual or collaborative experiments</li><li>Background conditions</li></ol><h2 id="Collecting-Data"><a href="#Collecting-Data" class="headerlink" title="Collecting Data"></a>Collecting Data</h2><p>The choice of method for data collection depends on one’s research interests, the hypothesis, the variable of interest and the available instruments. </p><h4 id="Measuring-instruments"><a href="#Measuring-instruments" class="headerlink" title="Measuring instruments"></a>Measuring instruments</h4><ul><li>Data collection involves one or more specialized instruments. </li><li>scientists don’t always come to agreement with the choice of instruments. </li><li>Measuring instruments can produce measurement error and require calibration. </li></ul><h4 id="Quantitative-data-vs-Qualitative-data"><a href="#Quantitative-data-vs-Qualitative-data" class="headerlink" title="Quantitative data vs Qualitative data"></a>Quantitative data vs Qualitative data</h4><p>Qualitative data can be measured by in quantitative form.</p><h4 id="Crucial-Experiments-and-Repeat-Experiments"><a href="#Crucial-Experiments-and-Repeat-Experiments" class="headerlink" title="Crucial Experiments and Repeat Experiments"></a>Crucial Experiments and Repeat Experiments</h4><p><strong>Crucial Experiment</strong><br>An Experiment that decisively adjudicates between two hypotheses, settling once and for all which is true.</p><p><strong>Underdetermination</strong><br>Defintion: the underdetermination of hypotheses by data is the case that evidence not sufficient to determine which of multiple hypotheses is true.<br>=&gt; there is always be some untested hypotheses that weren’t tested<br>=&gt; for this reason, few experiment can be crucial experiments that once and for all settle the hypotheses</p><p><strong>Auxiliary assumptions</strong><br>One hypothesis involves a number of auxiliary assumptions<br>(Assumptions that need to be true in order for the data to have the intended relationship to the hypothesis under investigation)</p><p>Three sources of uncertainty about what an experiment shows:</p><ol><li>Extraneous variables</li><li>Unanticipated hypotheses</li><li>Auxiliary assumptions</li></ol><p><del>Replication - to minimize uncertainty</del> ::how?::<br>Comments: replications in which experiment produces the same result doesn’t produce more information. Unsuccessful replications did produces new information ::(?)::</p><h2 id="Roles-of-Experiment"><a href="#Roles-of-Experiment" class="headerlink" title="Roles of Experiment"></a>Roles of Experiment</h2><ol><li>Confirming and disconfirming evidence</li><li>Evaluating the functioning of scientific instrument</li><li>Determining the physical constants</li><li>Exploratory experiment</li></ol><hr><h1 id="The-perfectly-Controlled-Experiment"><a href="#The-perfectly-Controlled-Experiment" class="headerlink" title="The perfectly Controlled Experiment"></a>The perfectly Controlled Experiment</h1><p><strong>Goal:</strong></p><ol><li>Identify the features of a <strong>perfectly controlled experiment</strong> and characterize the importance of each</li><li>Describe the difference between <strong>direct</strong> and <strong>indirect</strong> variable control</li><li>Describe the <strong>steps to conducting</strong> a perfectly controlled experiment of a given hypothesis</li></ol><h2 id="Defining-Expectations"><a href="#Defining-Expectations" class="headerlink" title="Defining Expectations"></a>Defining Expectations</h2><p>Expectations should be clearly and precisely defined.<br>Operational defintion<br>It offers a measurable way to proceed testing<br>Cluster indicators</p><h2 id="Intervention"><a href="#Intervention" class="headerlink" title="Intervention"></a>Intervention</h2><p>Intervention: a direct manipulation of the value of a variable<br>Intervention is the center of perfectly controlled experiment<br>However, some intervention can not be conducted due to ethical reasons i.e. syphilis and practical reasons i.e. distance from Moon to Earth</p><h2 id="Variable-control"><a href="#Variable-control" class="headerlink" title="Variable control"></a>Variable control</h2><ol><li>Direct variable control : all extraneous variables are held at constant values during an intervention</li><li>Indirect variable control: allow extraneous variables to vary in a way that s independent from the intervention<br>=&gt;<strong>Randomization</strong></li></ol><h2 id="Controlling-for-bias"><a href="#Controlling-for-bias" class="headerlink" title="Controlling for bias"></a>Controlling for bias</h2><p>Blind experiment<br>Double blind experiment<br>Placebo Effect<br>Deception</p><hr><h1 id="Experimental-And-Non-Experimental-Methods"><a href="#Experimental-And-Non-Experimental-Methods" class="headerlink" title="Experimental And Non-Experimental Methods"></a>Experimental And Non-Experimental Methods</h1><p>Goals</p><ol><li>Distinguish between lad and field experiments</li><li>Define external validity and internal validity</li><li>Describe the main types of non-experimental design</li></ol><h2 id="Lab-amp-Field"><a href="#Lab-amp-Field" class="headerlink" title="Lab &amp; Field"></a>Lab &amp; Field</h2><p>Laboratory experiments<br>Advantages:</p><ol><li>High degree of internal experimental validity<br>Def: scientists can correctly infer conclusions about the relationship between the independent and dependent variables with great certainty</li><li>Experimental setup and data analysis are easily to be followed and repeated</li></ol><p>External experimental validity<br>The extent to which experimental results generalize from the experimental conditions to other conditions<br>    Two components<br>        1. Population validity<br>        2. Ecological validity</p><hr><p>#Note</p>]]></content>
+    
+    <summary type="html">
+    
+      Experiments and Studies
+Recipes for Science Chp2
+
+ Goal
+
+ 1. The role of experiments in testing hypo
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Philosophy of Science Chp 2</title>
     <link href="/2019/09/02/Philosophy%20of%20Science-Chi%202/"/>
     <id>/2019/09/02/Philosophy of Science-Chi 2/</id>
     <published>2019-09-02T16:46:25.000Z</published>
-    <updated>2019-09-02T16:46:11.872Z</updated>
+    <updated>2019-09-04T23:30:08.025Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Demarcating-Science"><a href="#Demarcating-Science" class="headerlink" title="Demarcating Science"></a>Demarcating Science</h2><p>Science<br>    - Test Hypotheses against observations or experimental results<br>    - base their conclusion on the evidence</p><h2 id="A-Pair-of-Distinctions"><a href="#A-Pair-of-Distinctions" class="headerlink" title="A Pair of Distinctions"></a>A Pair of Distinctions</h2><p>Context of discovery<br>Context of justification<br><img src="/2019/09/02/Philosophy of Science-Chi 2/8F0A198F-11AC-4457-92CA-0DE49074131A.png" alt></p><p>::“Significant novel hypotheses rarely emerge from a mechanical compilation of data but often require the imaginative leap that introduces a new conception. If there are methods of discovery, they are not fully general, but limited to domains with particular features.”::</p><p><img src="/2019/09/02/Philosophy of Science-Chi 2/A2832F14-1B89-4F3C-A1DB-AB6D73F27404.png" alt></p><p>Analytic Truth<br><img src="/2019/09/02/Philosophy of Science-Chi 2/75CE18BF-B590-476E-8E50-1FA9330178DA.png" alt></p><p>Mathematics VS natural Science</p><p>Mathematics : </p><ul><li>analytic truths</li><li>deducing theorem from the axioms with logic</li></ul><p>Natural Science : </p><ul><li>hypotheses must be based on observation of nature</li><li>proving hypotheses by using basic statements as the premises in inferences that accord with the rules of an extended logic</li></ul><p><strong>Both consists in assembling basic statements and constructing arguments sanctioned by logic to ground conclusion about nature</strong></p><hr><p>Two questions:<br>What are the proper starting points for justificatory arguments in science?<br>What types of inference, beyond deduction, should be allowed in an “extended logic“ for science?</p><hr><h2 id="Revisability"><a href="#Revisability" class="headerlink" title="Revisability"></a>Revisability</h2><p>Karl Popper<br>The mark of real science is falsifiability.<br>Good hypotheses stick their necks out; they take risks by making claims that nature could reject.</p><p>The openness to correction is the hallmark of science and the source of the superiority of science over other kinds of human knowledge</p><p>A bundle of hypotheses allow avoidance of criticism to the central claim which makes the hallmark of falsifiability of science pointless</p><h2 id="Three-main-characteristics-of-natural-sciences"><a href="#Three-main-characteristics-of-natural-sciences" class="headerlink" title="Three main characteristics of natural sciences"></a>Three main characteristics of natural sciences</h2><p>Theory of confirmation<br>Theory of theories and theoretical language<br>Theory of explanation</p><h3 id="Confirmation"><a href="#Confirmation" class="headerlink" title="Confirmation"></a>Confirmation</h3><p>Scientific evidence falls short of conclusive proof.<br>General hypotheses are subject to revision.<br>The scientific process does not prove but simply confirms.</p><p>How does it confirms?</p><h4 id="The-Hypothetico-Deductive-Method"><a href="#The-Hypothetico-Deductive-Method" class="headerlink" title="The Hypothetico-Deductive Method"></a>The Hypothetico-Deductive Method</h4><p><img src="/2019/09/02/Philosophy of Science-Chi 2/B32CFD52-F252-43EA-8EBB-FAAF2E16B028.png" alt><br><img src="/2019/09/02/Philosophy of Science-Chi 2/0A68CE78-F418-43A7-A550-8A92DC1FEB4F.png" alt></p><p>#Note</p>]]></content>
     
@@ -58,6 +85,33 @@ Science
     
       <category term="WebDev" scheme="/categories/WebDev/"/>
     
+    
+  </entry>
+  
+  <entry>
+    <title>Epi 02 Put a price tag on life</title>
+    <link href="/2019/03/27/Epi%2002/"/>
+    <id>/2019/03/27/Epi 02/</id>
+    <published>2019-03-28T00:46:25.000Z</published>
+    <updated>2019-09-02T14:33:12.145Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Put-a-price-tag-on-life"><a href="#Put-a-price-tag-on-life" class="headerlink" title="Put a price tag on life"></a>Put a price tag on life</h2><p>Benthame  Utilitarian<br>    Idea:<br>        Greatest Good for the greatest number<br>    Objections<br>        1. Fail to respect indviduals / Minority right<br>        2. Not possible to aggregate all value into numbers<br>            1. Using a single number<br>            2. If the preference has a worthier different<br>    Example:<br>        Cost-benefits analysis<br>        The cigarette<br>        The Ford Pinto<br>        the cost of life</p><h2 id="Measure-the-pleasure"><a href="#Measure-the-pleasure" class="headerlink" title="Measure the pleasure"></a>Measure the pleasure</h2><p><strong>Example</strong></p><pre><code>Torture to extract information for the collective goodTranslating value to number    the value of entrance to women dorm</code></pre><h4 id="John-Stuart-Mill"><a href="#John-Stuart-Mill" class="headerlink" title="John Stuart Mill"></a>John Stuart Mill</h4><pre><code>humanize the Utilitarian and accommodate the humanism concernsrespond to the objections    1. Fail to respect indviduals / Minority right</code></pre><p><img src="/2019/03/27/Epi 02/AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png" alt="AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png"></p><pre><code>3. Not possible to aggregate all value into numbers     1. Using a single number     2. If the preference has a worthier different</code></pre><p><img src="/2019/03/27/Epi 02/0FC7A8DD-3B0F-4124-BFCD-96A77D93FB29.png" alt></p><pre><code>#Note#</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      Put a price tag on life
+Benthame Utilitarian
+Idea:
+Greatest Good for the greatest number
+Objections
+
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
     
   </entry>
   
@@ -100,33 +154,6 @@ Categoricalism- locate morality in certain duties and acts regardless of coseque
 John Stuart Mill
 Respect individual’s right
     =&gt;In the long run, the justice makes 
-    
-    </summary>
-    
-      <category term="Notes" scheme="/categories/Notes/"/>
-    
-    
-      <category term="philosophy" scheme="/tags/philosophy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Epi 02 Put a price tag on life</title>
-    <link href="/2019/03/27/Epi%2002/"/>
-    <id>/2019/03/27/Epi 02/</id>
-    <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:33:12.145Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Put-a-price-tag-on-life"><a href="#Put-a-price-tag-on-life" class="headerlink" title="Put a price tag on life"></a>Put a price tag on life</h2><p>Benthame  Utilitarian<br>    Idea:<br>        Greatest Good for the greatest number<br>    Objections<br>        1. Fail to respect indviduals / Minority right<br>        2. Not possible to aggregate all value into numbers<br>            1. Using a single number<br>            2. If the preference has a worthier different<br>    Example:<br>        Cost-benefits analysis<br>        The cigarette<br>        The Ford Pinto<br>        the cost of life</p><h2 id="Measure-the-pleasure"><a href="#Measure-the-pleasure" class="headerlink" title="Measure the pleasure"></a>Measure the pleasure</h2><p><strong>Example</strong></p><pre><code>Torture to extract information for the collective goodTranslating value to number    the value of entrance to women dorm</code></pre><h4 id="John-Stuart-Mill"><a href="#John-Stuart-Mill" class="headerlink" title="John Stuart Mill"></a>John Stuart Mill</h4><pre><code>humanize the Utilitarian and accommodate the humanism concernsrespond to the objections    1. Fail to respect indviduals / Minority right</code></pre><p><img src="/2019/03/27/Epi 02/AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png" alt="AE60E4AA-2DCB-4677-98AA-38E78E4838CC.png"></p><pre><code>3. Not possible to aggregate all value into numbers     1. Using a single number     2. If the preference has a worthier different</code></pre><p><img src="/2019/03/27/Epi 02/0FC7A8DD-3B0F-4124-BFCD-96A77D93FB29.png" alt></p><pre><code>#Note#</code></pre>]]></content>
-    
-    <summary type="html">
-    
-      Put a price tag on life
-Benthame Utilitarian
-Idea:
-Greatest Good for the greatest number
-Objections
-
     
     </summary>
     
@@ -290,34 +317,6 @@ Corrective: Co
   </entry>
   
   <entry>
-    <title>Epi 12 The Good Life</title>
-    <link href="/2019/03/27/Epi%2012/"/>
-    <id>/2019/03/27/Epi 12/</id>
-    <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:23:59.095Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Debating-same-sex-marriage"><a href="#Debating-same-sex-marriage" class="headerlink" title="Debating same-sex marriage"></a>Debating same-sex marriage</h2><p><img src="/2019/03/27/Epi 12/9000107A-6A54-4360-B794-E643C2CE4336.png" alt></p><p>Two way of defining justice</p><ol><li>Justice relativist </li><li>Justice is bound up with the good in a relativist </li></ol><p>::Reasoning about the purpose and ends of the good is the necessary::<br>::feature of arguing about the justice::</p><h2 id="The-Good-Life"><a href="#The-Good-Life" class="headerlink" title="The Good Life"></a>The Good Life</h2><p>Is it necessary or unavoidable to take up the good life to think about the justice?</p><p>Yes</p><p>moral reasoning<br>John Rawls: reflective equilibrium<br>Pluralist society </p><p>If we are going to think of our disagreements about morality and religion has bound up with our disagreements about justice, how are we ever going to find a way to our society that accords respect to fellow citizens we disagree?</p><p>It depends which conception of respect one accepts</p><p><img src="/2019/03/27/Epi 12/8DF53737-E60D-473B-B516-422D979F73CF.png" alt><br><img src="/2019/03/27/Epi 12/7A5F645A-519B-4123-8511-502AA831508E.png" alt></p><p>#Note</p>]]></content>
-    
-    <summary type="html">
-    
-      Debating same-sex marriage
-
-
-Two way of defining justice
-
- 1. Justice relativist 
- 2. Justice is bou
-    
-    </summary>
-    
-      <category term="Notes" scheme="/categories/Notes/"/>
-    
-    
-      <category term="philosophy" scheme="/tags/philosophy/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Epi 10 The Good Citizen</title>
     <link href="/2019/03/27/Epi%2010/"/>
     <id>/2019/03/27/Epi 10/</id>
@@ -357,6 +356,34 @@ Aristole:
       The claims of community
  * whether the right is prior to the good
  * what it means to be a free mora
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Epi 12 The Good Life</title>
+    <link href="/2019/03/27/Epi%2012/"/>
+    <id>/2019/03/27/Epi 12/</id>
+    <published>2019-03-28T00:46:25.000Z</published>
+    <updated>2019-09-02T14:23:59.095Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Debating-same-sex-marriage"><a href="#Debating-same-sex-marriage" class="headerlink" title="Debating same-sex marriage"></a>Debating same-sex marriage</h2><p><img src="/2019/03/27/Epi 12/9000107A-6A54-4360-B794-E643C2CE4336.png" alt></p><p>Two way of defining justice</p><ol><li>Justice relativist </li><li>Justice is bound up with the good in a relativist </li></ol><p>::Reasoning about the purpose and ends of the good is the necessary::<br>::feature of arguing about the justice::</p><h2 id="The-Good-Life"><a href="#The-Good-Life" class="headerlink" title="The Good Life"></a>The Good Life</h2><p>Is it necessary or unavoidable to take up the good life to think about the justice?</p><p>Yes</p><p>moral reasoning<br>John Rawls: reflective equilibrium<br>Pluralist society </p><p>If we are going to think of our disagreements about morality and religion has bound up with our disagreements about justice, how are we ever going to find a way to our society that accords respect to fellow citizens we disagree?</p><p>It depends which conception of respect one accepts</p><p><img src="/2019/03/27/Epi 12/8DF53737-E60D-473B-B516-422D979F73CF.png" alt><br><img src="/2019/03/27/Epi 12/7A5F645A-519B-4123-8511-502AA831508E.png" alt></p><p>#Note</p>]]></content>
+    
+    <summary type="html">
+    
+      Debating same-sex marriage
+
+
+Two way of defining justice
+
+ 1. Justice relativist 
+ 2. Justice is bou
     
     </summary>
     
