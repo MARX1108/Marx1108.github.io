@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2019-09-04T23:30:38.152Z</updated>
+  <updated>2020-06-05T13:32:30.055Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notes</title>
+    <link href="/2020/06/02/notes/"/>
+    <id>/2020/06/02/notes/</id>
+    <published>2020-06-02T16:46:25.000Z</published>
+    <updated>2020-06-05T13:32:30.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>#<br> To expand and get people interested<br>American Battle field trust<br>Raised money to protect land where civil war was fought<br>Raise awareness<br>Marketing<br>Civil Twin<br>Selfie -&gt; upload databased -&gt; face recognition -&gt;<br>our website &amp; their website </p><p>Upload picture -&gt; face recognition -&gt; limitation (racial bias)<br>    reasons<br>    - upload pictures<br>    - face recognition not work well<br>    - reference database<br>    teach people about how face recognition works<br>    if the user is women<br>    face recognition didn’t recognize the gender difference<br>    modification to the<br>    educational op<br>    ethical solution to facial recognition<br>    to allow people to use facial recognition</p><p>Goal: for the summer<br><strong>Design Work</strong><br>    to enhance the prototype with educational element<br>    designs / mockups<br>    collaborators battlefield<br>    Designers<br><strong>User Studies</strong><br>    Civil War Twin Thing<br>        - easy to use<br>        - testing it<br>    Feedback Section<br>    Test it thorough photo sleuth community<br>    Battle field Trust</p><p>CWT Design Slides</p><ol start="0"><li>Upload<br>Pictures/Your Name/Your Email Address (sent matches)</li><li>Face Detection<br>Face detected displayed it how it works </li></ol><p>More than one face<br>no face </p><ol><li>Search Filters </li></ol><p>Military<br>    Union<br>    Confederate<br>    Civilian<br>Gender<br>    Men<br>    Women<br>Race<br>    White<br>    Black<br>    Asian</p><ol start="3"><li>Show flaw of facial recognition</li><li>Search Results<br>Call for action<br>Data Privacy</li></ol><p>60% 40% </p><h2 id="Privacy"><a href="#Privacy" class="headerlink" title="Privacy"></a>Privacy</h2><p>Feedback</p><h2 id="Historical-Bias"><a href="#Historical-Bias" class="headerlink" title="Historical Bias"></a>Historical Bias</h2><p>Photo </p><h2 id="Face-Recognition-Accuary"><a href="#Face-Recognition-Accuary" class="headerlink" title="Face Recognition Accuary"></a>Face Recognition Accuary</h2>]]></content>
+    
+    <summary type="html">
+    
+      #
+To expand and get people interested
+American Battle field trust
+Raised money to protect land where
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="Ethics" scheme="/tags/Ethics/"/>
+    
+  </entry>
   
   <entry>
     <title>Recipes for Science Chp2</title>
@@ -33,31 +58,6 @@ Recipes for Science Chp2
  Goal
 
  1. The role of experiments in testing hypo
-    
-    </summary>
-    
-      <category term="Notes" scheme="/categories/Notes/"/>
-    
-    
-      <category term="philosophy" scheme="/tags/philosophy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Philosophy of Science Chp 2</title>
-    <link href="/2019/09/02/Philosophy%20of%20Science-Chi%202/"/>
-    <id>/2019/09/02/Philosophy of Science-Chi 2/</id>
-    <published>2019-09-02T16:46:25.000Z</published>
-    <updated>2019-09-04T23:30:08.025Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Demarcating-Science"><a href="#Demarcating-Science" class="headerlink" title="Demarcating Science"></a>Demarcating Science</h2><p>Science<br>    - Test Hypotheses against observations or experimental results<br>    - base their conclusion on the evidence</p><h2 id="A-Pair-of-Distinctions"><a href="#A-Pair-of-Distinctions" class="headerlink" title="A Pair of Distinctions"></a>A Pair of Distinctions</h2><p>Context of discovery<br>Context of justification<br><img src="/2019/09/02/Philosophy of Science-Chi 2/8F0A198F-11AC-4457-92CA-0DE49074131A.png" alt></p><p>::“Significant novel hypotheses rarely emerge from a mechanical compilation of data but often require the imaginative leap that introduces a new conception. If there are methods of discovery, they are not fully general, but limited to domains with particular features.”::</p><p><img src="/2019/09/02/Philosophy of Science-Chi 2/A2832F14-1B89-4F3C-A1DB-AB6D73F27404.png" alt></p><p>Analytic Truth<br><img src="/2019/09/02/Philosophy of Science-Chi 2/75CE18BF-B590-476E-8E50-1FA9330178DA.png" alt></p><p>Mathematics VS natural Science</p><p>Mathematics : </p><ul><li>analytic truths</li><li>deducing theorem from the axioms with logic</li></ul><p>Natural Science : </p><ul><li>hypotheses must be based on observation of nature</li><li>proving hypotheses by using basic statements as the premises in inferences that accord with the rules of an extended logic</li></ul><p><strong>Both consists in assembling basic statements and constructing arguments sanctioned by logic to ground conclusion about nature</strong></p><hr><p>Two questions:<br>What are the proper starting points for justificatory arguments in science?<br>What types of inference, beyond deduction, should be allowed in an “extended logic“ for science?</p><hr><h2 id="Revisability"><a href="#Revisability" class="headerlink" title="Revisability"></a>Revisability</h2><p>Karl Popper<br>The mark of real science is falsifiability.<br>Good hypotheses stick their necks out; they take risks by making claims that nature could reject.</p><p>The openness to correction is the hallmark of science and the source of the superiority of science over other kinds of human knowledge</p><p>A bundle of hypotheses allow avoidance of criticism to the central claim which makes the hallmark of falsifiability of science pointless</p><h2 id="Three-main-characteristics-of-natural-sciences"><a href="#Three-main-characteristics-of-natural-sciences" class="headerlink" title="Three main characteristics of natural sciences"></a>Three main characteristics of natural sciences</h2><p>Theory of confirmation<br>Theory of theories and theoretical language<br>Theory of explanation</p><h3 id="Confirmation"><a href="#Confirmation" class="headerlink" title="Confirmation"></a>Confirmation</h3><p>Scientific evidence falls short of conclusive proof.<br>General hypotheses are subject to revision.<br>The scientific process does not prove but simply confirms.</p><p>How does it confirms?</p><h4 id="The-Hypothetico-Deductive-Method"><a href="#The-Hypothetico-Deductive-Method" class="headerlink" title="The Hypothetico-Deductive Method"></a>The Hypothetico-Deductive Method</h4><p><img src="/2019/09/02/Philosophy of Science-Chi 2/B32CFD52-F252-43EA-8EBB-FAAF2E16B028.png" alt><br><img src="/2019/09/02/Philosophy of Science-Chi 2/0A68CE78-F418-43A7-A550-8A92DC1FEB4F.png" alt></p><p>#Note</p>]]></content>
-    
-    <summary type="html">
-    
-      Demarcating Science
-Science
-- Test Hypotheses against observations or experimental results
-- base th
     
     </summary>
     
@@ -165,30 +165,6 @@ Respect individual’s right
   </entry>
   
   <entry>
-    <title>Epi 05 Hired Gun &amp; Consent</title>
-    <link href="/2019/03/27/Epi%2005/"/>
-    <id>/2019/03/27/Epi 05/</id>
-    <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:23:42.137Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Hired-Gun"><a href="#Hired-Gun" class="headerlink" title="Hired Gun"></a>Hired Gun</h2><p>Taxation with consent<br><strong>Prior act of consent to join the society and agree to be bound by the society</strong> </p><pre><code>- The government have the right to violate self-procession as fas as it is not arbitrary</code></pre><h2 id="For-Sale-Motherhood"><a href="#For-Sale-Motherhood" class="headerlink" title="For Sale: Motherhood"></a>For Sale: Motherhood</h2><p>#Note</p>]]></content>
-    
-    <summary type="html">
-    
-      Hired Gun
-Taxation with consent
-Prior act of consent to join the society and agree to be bound by th
-    
-    </summary>
-    
-      <category term="Notes" scheme="/categories/Notes/"/>
-    
-    
-      <category term="philosophy" scheme="/tags/philosophy/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Epi 04 This land is my land &amp; This land is my land</title>
     <link href="/2019/03/27/Epi%2004/"/>
     <id>/2019/03/27/Epi 04/</id>
@@ -203,6 +179,30 @@ Prior act of consent to join the society and agree to be bound by th
 John Locke
 Some fundamental right can not be override by the government
 =&gt; Thos
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Epi 05 Hired Gun &amp; Consent</title>
+    <link href="/2019/03/27/Epi%2005/"/>
+    <id>/2019/03/27/Epi 05/</id>
+    <published>2019-03-28T00:46:25.000Z</published>
+    <updated>2019-09-02T14:23:42.137Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Hired-Gun"><a href="#Hired-Gun" class="headerlink" title="Hired Gun"></a>Hired Gun</h2><p>Taxation with consent<br><strong>Prior act of consent to join the society and agree to be bound by the society</strong> </p><pre><code>- The government have the right to violate self-procession as fas as it is not arbitrary</code></pre><h2 id="For-Sale-Motherhood"><a href="#For-Sale-Motherhood" class="headerlink" title="For Sale: Motherhood"></a>For Sale: Motherhood</h2><p>#Note</p>]]></content>
+    
+    <summary type="html">
+    
+      Hired Gun
+Taxation with consent
+Prior act of consent to join the society and agree to be bound by th
     
     </summary>
     
@@ -229,32 +229,6 @@ Kant
 Claims:
 1. We are all rational beings
 2. We are being who are capable of reaso
-    
-    </summary>
-    
-      <category term="Notes" scheme="/categories/Notes/"/>
-    
-    
-      <category term="philosophy" scheme="/tags/philosophy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Epi 07 A Deal is a Deal</title>
-    <link href="/2019/03/27/Epi%2007/"/>
-    <id>/2019/03/27/Epi 07/</id>
-    <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:23:47.291Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="lessons-in-lying"><a href="#lessons-in-lying" class="headerlink" title="lessons in lying"></a>lessons in lying</h2><p>How is morality possible<br>How is categorical imperative possible</p><p>::If the utilitarian is true, if  I am the only subject of the deliverances of my sense, the pain, the pleasure, the pain and appetite, if that’s all there were to humanity, we wouldn’t be freedom because in that case every exercise of will would be conditioned by the desire for some objects::</p><p><img src="/2019/03/27/Epi 07/55B3932F-B4F2-4BB2-B18C-1286CC58E3F0.png" alt></p><p>How is categorical imperative possible<br>Only because the idea of freedom makes myself as members of intelligible world.</p><p>::It is because of the two standpoints that the realm of freedom and the real of necessity, there is always potentially a gap between what we do and what we ought to do::</p><p>A lie and a misleading truth<br>Kant based morality not on consequenlist but on moral law</p><h2 id="A-Deal-is-a-Deal"><a href="#A-Deal-is-a-Deal" class="headerlink" title="A Deal is a Deal"></a>A Deal is a Deal</h2><p>Justice arise from social contract</p><p>It is exceptional contract in the sense that it is not actual contract but rather the idea of reasons.</p><p><img src="/2019/03/27/Epi 07/C1F80F61-5D36-49EB-98A9-FA52B7BD0355.png" alt></p><p>John Rawls<br>    justice from the Hypothetical agreement<br>    Critics of utilitarian<br><img src="/2019/03/27/Epi 07/D1AF86C6-B301-436D-A943-E91B1529AA2D.png" alt></p><pre><code>veil of igorance </code></pre><p>::what is the moral force of this kind of hypothetical agreement ?::<br>    Behind the veil of ignorance<br>    equal of knowledge in different parties<br>    equal of bargain power in different parties<br>    veil of ignorance create a equality<br>    by ruling out the difference of knowledge and power<br>::What is the moral force of the actual contracts?::<br>        1. How do the actual contracts bind or obligate?<br>        Answer:<br>            1. <strong>benefit-based</strong> =&gt; <strong>reciprocity</strong><br>            Instruments of mutual benefits<br>            difference of knowledge in different parties<br>            2. <strong>consent-based</strong> =&gt; <strong>autonomy</strong><br>            difference of bargain power in different parties<br>        2. How do they justify the terms they produce?<br>            1. They don’t<br>            2. Actual contracts are not self-suffiencit</p><pre><code>3. Moral limited of actual contracts     1. Mutual agreements doesn’t means fairness     2.  A contract is not sufficient or not even the necessity condition of there being a obligation    David Hume</code></pre><p><img src="/2019/03/27/Epi 07/DF654C29-E7BD-45E9-8FED-A60CD4746986.png" alt></p><p>#Note</p>]]></content>
-    
-    <summary type="html">
-    
-      lessons in lying
-How is morality possible
-How is categorical imperative possible
-
-::If the utilitari
     
     </summary>
     
@@ -317,21 +291,21 @@ Corrective: Co
   </entry>
   
   <entry>
-    <title>Epi 10 The Good Citizen</title>
-    <link href="/2019/03/27/Epi%2010/"/>
-    <id>/2019/03/27/Epi 10/</id>
+    <title>Epi 07 A Deal is a Deal</title>
+    <link href="/2019/03/27/Epi%2007/"/>
+    <id>/2019/03/27/Epi 07/</id>
     <published>2019-03-28T00:46:25.000Z</published>
-    <updated>2019-09-02T14:23:54.089Z</updated>
+    <updated>2019-09-02T14:23:47.291Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="The-good-citizen"><a href="#The-good-citizen" class="headerlink" title="The good citizen"></a>The good citizen</h2><p><img src="/2019/03/27/Epi 10/591A333A-E3B8-4AE7-B6BC-638ED0C9FC86.png" alt><br>Aristole: </p><ul><li>In reasoning about the justice and rights, we have unavoidable reasoning about the purpose or the end or telos of the social practice institution </li><li>justice means gives equal things to equal person</li><li>::looking into the essential nature of the thing we are distributing.:: </li></ul><h3 id="How-should-the-political-roles-be-assign"><a href="#How-should-the-political-roles-be-assign" class="headerlink" title="How should the political roles be assign?"></a>How should the political roles be assign?</h3><p>we should look into the end of politics<br>the politics should be about realizing the good life </p><p>Aristotle</p><p><img src="/2019/03/27/Epi 10/480AB211-D016-4CFA-8913-584CC759E601.png" alt></p><p><img src="/2019/03/27/Epi 10/D80B0838-8FAA-4B90-A697-400CE51AEF31.png" alt></p><p><img src="/2019/03/27/Epi 10/050172F7-FF8C-445D-BD20-B3A1D2E3C361.png" alt></p><p>Therefore, those who contribute the most to the an association of shaping the good should have a greater share because they are in a position to contribute the most, to which the political community is essentially about</p><p>Why is the policial life participation somehow connected to live a good life<br>Aristotle:<br>    - only, by living in a polis do we fully realize our nature. Human beings are by nature meant to live in a polis because it is only in polis are we allow to exercise the capacity of language, the deliberate about right or wrong. </p><p><img src="/2019/03/27/Epi 10/54256389-CE91-4D25-9C4A-A9A12372895D.png" alt></p><pre><code>- happiness is a activity of soul in accordance with virtue    - shaping the soul is the purpose of the objects of legislature    - Virtue is only something we can acquire by exercising and by doing    - </code></pre><p>The link between the distributive justice pricinple and the telos </p><h2 id="Freedom-vs-Fit"><a href="#Freedom-vs-Fit" class="headerlink" title="Freedom vs Fit"></a>Freedom vs Fit</h2><p><strong>Objection to Aristotle</strong></p><ul><li>If certain social roles are fitting to people, where does that leave people to choose for their roles</li><li>Telogical social justice threaten the basic liberty rights </li><li>hard to come to agreement<ul><li>whether the right is prior to the good</li><li>what it means to be a free moral agents<br>For slavery to be just</li></ul></li></ul><ol><li>Slavery is necessary for the community as whole to function<br>For some citizens </li><li>There are some people to be the slave is the just</li></ol><p>#Note</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="lessons-in-lying"><a href="#lessons-in-lying" class="headerlink" title="lessons in lying"></a>lessons in lying</h2><p>How is morality possible<br>How is categorical imperative possible</p><p>::If the utilitarian is true, if  I am the only subject of the deliverances of my sense, the pain, the pleasure, the pain and appetite, if that’s all there were to humanity, we wouldn’t be freedom because in that case every exercise of will would be conditioned by the desire for some objects::</p><p><img src="/2019/03/27/Epi 07/55B3932F-B4F2-4BB2-B18C-1286CC58E3F0.png" alt></p><p>How is categorical imperative possible<br>Only because the idea of freedom makes myself as members of intelligible world.</p><p>::It is because of the two standpoints that the realm of freedom and the real of necessity, there is always potentially a gap between what we do and what we ought to do::</p><p>A lie and a misleading truth<br>Kant based morality not on consequenlist but on moral law</p><h2 id="A-Deal-is-a-Deal"><a href="#A-Deal-is-a-Deal" class="headerlink" title="A Deal is a Deal"></a>A Deal is a Deal</h2><p>Justice arise from social contract</p><p>It is exceptional contract in the sense that it is not actual contract but rather the idea of reasons.</p><p><img src="/2019/03/27/Epi 07/C1F80F61-5D36-49EB-98A9-FA52B7BD0355.png" alt></p><p>John Rawls<br>    justice from the Hypothetical agreement<br>    Critics of utilitarian<br><img src="/2019/03/27/Epi 07/D1AF86C6-B301-436D-A943-E91B1529AA2D.png" alt></p><pre><code>veil of igorance </code></pre><p>::what is the moral force of this kind of hypothetical agreement ?::<br>    Behind the veil of ignorance<br>    equal of knowledge in different parties<br>    equal of bargain power in different parties<br>    veil of ignorance create a equality<br>    by ruling out the difference of knowledge and power<br>::What is the moral force of the actual contracts?::<br>        1. How do the actual contracts bind or obligate?<br>        Answer:<br>            1. <strong>benefit-based</strong> =&gt; <strong>reciprocity</strong><br>            Instruments of mutual benefits<br>            difference of knowledge in different parties<br>            2. <strong>consent-based</strong> =&gt; <strong>autonomy</strong><br>            difference of bargain power in different parties<br>        2. How do they justify the terms they produce?<br>            1. They don’t<br>            2. Actual contracts are not self-suffiencit</p><pre><code>3. Moral limited of actual contracts     1. Mutual agreements doesn’t means fairness     2.  A contract is not sufficient or not even the necessity condition of there being a obligation    David Hume</code></pre><p><img src="/2019/03/27/Epi 07/DF654C29-E7BD-45E9-8FED-A60CD4746986.png" alt></p><p>#Note</p>]]></content>
     
     <summary type="html">
     
-      The good citizen
+      lessons in lying
+How is morality possible
+How is categorical imperative possible
 
-Aristole: 
-
- * In reasoning about the justice and rights, we have unavoidable reas
+::If the utilitari
     
     </summary>
     
@@ -356,6 +330,32 @@ Aristole:
       The claims of community
  * whether the right is prior to the good
  * what it means to be a free mora
+    
+    </summary>
+    
+      <category term="Notes" scheme="/categories/Notes/"/>
+    
+    
+      <category term="philosophy" scheme="/tags/philosophy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Epi 10 The Good Citizen</title>
+    <link href="/2019/03/27/Epi%2010/"/>
+    <id>/2019/03/27/Epi 10/</id>
+    <published>2019-03-28T00:46:25.000Z</published>
+    <updated>2019-09-02T14:23:54.089Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="The-good-citizen"><a href="#The-good-citizen" class="headerlink" title="The good citizen"></a>The good citizen</h2><p><img src="/2019/03/27/Epi 10/591A333A-E3B8-4AE7-B6BC-638ED0C9FC86.png" alt><br>Aristole: </p><ul><li>In reasoning about the justice and rights, we have unavoidable reasoning about the purpose or the end or telos of the social practice institution </li><li>justice means gives equal things to equal person</li><li>::looking into the essential nature of the thing we are distributing.:: </li></ul><h3 id="How-should-the-political-roles-be-assign"><a href="#How-should-the-political-roles-be-assign" class="headerlink" title="How should the political roles be assign?"></a>How should the political roles be assign?</h3><p>we should look into the end of politics<br>the politics should be about realizing the good life </p><p>Aristotle</p><p><img src="/2019/03/27/Epi 10/480AB211-D016-4CFA-8913-584CC759E601.png" alt></p><p><img src="/2019/03/27/Epi 10/D80B0838-8FAA-4B90-A697-400CE51AEF31.png" alt></p><p><img src="/2019/03/27/Epi 10/050172F7-FF8C-445D-BD20-B3A1D2E3C361.png" alt></p><p>Therefore, those who contribute the most to the an association of shaping the good should have a greater share because they are in a position to contribute the most, to which the political community is essentially about</p><p>Why is the policial life participation somehow connected to live a good life<br>Aristotle:<br>    - only, by living in a polis do we fully realize our nature. Human beings are by nature meant to live in a polis because it is only in polis are we allow to exercise the capacity of language, the deliberate about right or wrong. </p><p><img src="/2019/03/27/Epi 10/54256389-CE91-4D25-9C4A-A9A12372895D.png" alt></p><pre><code>- happiness is a activity of soul in accordance with virtue    - shaping the soul is the purpose of the objects of legislature    - Virtue is only something we can acquire by exercising and by doing    - </code></pre><p>The link between the distributive justice pricinple and the telos </p><h2 id="Freedom-vs-Fit"><a href="#Freedom-vs-Fit" class="headerlink" title="Freedom vs Fit"></a>Freedom vs Fit</h2><p><strong>Objection to Aristotle</strong></p><ul><li>If certain social roles are fitting to people, where does that leave people to choose for their roles</li><li>Telogical social justice threaten the basic liberty rights </li><li>hard to come to agreement<ul><li>whether the right is prior to the good</li><li>what it means to be a free moral agents<br>For slavery to be just</li></ul></li></ul><ol><li>Slavery is necessary for the community as whole to function<br>For some citizens </li><li>There are some people to be the slave is the just</li></ol><p>#Note</p>]]></content>
+    
+    <summary type="html">
+    
+      The good citizen
+
+Aristole: 
+
+ * In reasoning about the justice and rights, we have unavoidable reas
     
     </summary>
     
